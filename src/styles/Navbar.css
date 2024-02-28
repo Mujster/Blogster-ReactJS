@@ -26,7 +26,22 @@
 }
 #About-btn{
     padding:1rem;
+    color:#000;
+    border-style: none;
+    border-radius: 2rem;
+}
+#About-btn:hover{
+    cursor: pointer;
+    background-color: #b2b2b2;
 }
 #Start-btn{
     padding:1rem;
+    background-color: #000;
+    color:#FFF;
+    border-radius:2rem;
+    border-style:none;
+}
+#Start-btn{
+    cursor: pointer;
+    background-color: #1c1c1c;
 }
